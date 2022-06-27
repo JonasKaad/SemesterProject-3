@@ -1,3 +1,9 @@
+# SemesterProject-3
+
+This is the repository for the 3rd semester project we did at University of Southern Denmark. It was a project about Music Streaming using microservices.
+
+The group I was in handled portability and our task was to build an app version of the music streaming service.
+
 ## Follow the steps below to run the app
 
 If the enviroment isn't already setup, follow the guide below to get started.
